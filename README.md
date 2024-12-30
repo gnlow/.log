@@ -3,5 +3,7 @@
 ```
 241231
     gh:open-dict-data/ipa-dict
-        #db(lang)
+        #db(word.ipa)
+    https:wortschatz.uni-leipzig.de/en/download/
+        #db(word.freq)
 ```
