@@ -3,4 +3,5 @@
 ```
 241231
     gh:open-dict-data/ipa-dict
+        #db(lang)
 ```
