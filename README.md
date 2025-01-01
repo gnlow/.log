@@ -12,5 +12,4 @@
         - Sonority Sequencing Principle (SSP)
         - Minimum Sonority Distance (MSD)
         - Sonority Dispersion Principle (SDP)
-
 ```
