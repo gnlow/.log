@@ -43,4 +43,11 @@
     
     Information Theory for linguists (Goldsmith, 2011)
         #lang
+    
+    doi:10.17959/sppm.2016.22.3.453
+    한국어 모음조화의 약화 현상에 대한 정보이론 기반 분석 (박선우, 2016)
+        #lang
+        - 상호정보량 MI(a;b) = plog(a) + plog(b) - plog(ab)
+        - 모음조화 지수 = 상호정보량(조화 유형) - 상호정보량(회피 유형)
+        - 모음조화 지수는 15~18세기 중 지속적으로 하락
 ```
