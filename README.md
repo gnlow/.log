@@ -26,8 +26,21 @@
     doi:10.20405/kl.2018.11.81.35
     계량음운론 속의 한국어·영어 단어길이와 음소배열 (이봉형, 2018)
         #lang #Paper
+        - 고빈도 어휘는 단어 길이가 짧다
+        - "단어 자체의 surprisal 값이 낮은 고빈도어는 길이를 짧게하여
+           평균 surprisal을 증가시키고 반대로 저빈도어는 길이를 확장시켜
+           단어자체의 높은 surprisal 값의 평균 surprisal 값을 낮춘다."
+        - "한 체계의 평균정보량 entropy는
+           구성요소의 확률(불확실성)이 평준화될 때 최대화된다."
+        - 고빈도 어휘는 음운론적 복잡도가 낮다
 
     yt:IQqtsm-bBRU
     This open problem taught me what topology is
         #math
+        - Gluing Diagram
+        - 폐곡선에서 두 점을 순서에 관계없이 고르는 방법은
+          뫼비우스 띠에 대응시킬 수 있음
+    
+    Information Theory for linguists (Goldsmith, 2011)
+        #lang
 ```
