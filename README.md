@@ -1,5 +1,7 @@
 # .log
 
+Bookmarks
+
 ```
 241231
     gh:open-dict-data/ipa-dict
@@ -35,7 +37,7 @@
         - 고빈도 어휘는 음운론적 복잡도가 낮다
 
     yt:IQqtsm-bBRU
-    This open problem taught me what topology is
+    This open problem taught me what topology is (3Blue1Brown, 2024)
         #math
         - Gluing Diagram
         - 폐곡선에서 두 점을 순서에 관계없이 고르는 방법은
@@ -50,4 +52,20 @@
         - 상호정보량 MI(a;b) = plog(a) + plog(b) - plog(ab)
         - 모음조화 지수 = 상호정보량(조화 유형) - 상호정보량(회피 유형)
         - 모음조화 지수는 15~18세기 중 지속적으로 하락
+
+250119
+    yt:qsYE1wMEMPA
+    But How DO Fluid Simulations Work? (Gonkee, 2020)
+        #geo #phys
+        - Real Time Fluid Dynamics for Games (Stam, 2003)
+        - Navier-Stokes Equations
+            - 속도장의 발산 = 0
+        - Gauss-Seidel Method
+        - Helmholtz Theorem
+            - 임의의 벡터장을 curl-free 장과 divergence-free 장의 합으로 나타낼 수 있음
+    
+    https:roberthodgin.com/project/meander
+    Meander (Hodgin, 2020)
+        #geo
+        - 강은 (Tangent + Bitangent * Curvature)으로 굽는다
 ```
