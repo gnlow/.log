@@ -68,4 +68,37 @@ Bookmarks
     Meander (Hodgin, 2020)
         #geo
         - 강은 (Tangent + Bitangent * Curvature)으로 굽는다
+
+250204
+    https:ephtracy.github.io/index.html?page=aerialod
+    Aerialod
+    Aerialod
+        - An interactive path tracing renderer for height maps
+        // TIL: Path Tracing
+    
+    // Voxel로 한국 아파트를 만들고 싶어
+
+    doi:10.17289/jkscs.37.4.202311.15
+    아파트 외관 색채계획과 경관 조화성의 관계 - 재도장 아파트 외관 색채 변화추세를 중심으로 (김수영 외, 2023)
+        - 2000년대 이후 아파트 재도장 시 색채의 채도는 감소하고 무채색 사용 비율이 증가함
+        - 경관별(자연/수변/역사/시가지) 배색디자인(Basic/Stripe/Dot&Mosaic/Grid/Gradation) 선호가 다름
+    
+    아파트 외부색채계획에 개구부의 요소가 미치는 영향 : 배색과 강조색을 중심으로 (노호성, 2020)
+        - 색채 현황
+            Ref: Architecture Color Trend (KCC)
+            - 외부 색채
+            - 화강석 색채
+        - 자극물 구성
+            - 배색방식
+                - Basic
+                - Stripe
+                - Dot&Mosaic
+                - Grid
+                - Gradation
+            - 강조색: Gray/Orange/Blue
+            - 유리색: 맑은/그린
+            - 난간색: White/Gray
+        - 사용자 반응을 토대로 최적의 색 제안
+        // TIL: 화강석에는 마천석, 거창석 등 생산 지역의 이름이 붙으며, 색상이 다양함
+        // Architecture Color Trend는 온라인에는 없는듯ㅜ
 ```
