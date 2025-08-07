@@ -101,4 +101,12 @@ Bookmarks
         - 사용자 반응을 토대로 최적의 색 제안
         // TIL: 화강석에는 마천석, 거창석 등 생산 지역의 이름이 붙으며, 색상이 다양함
         // Architecture Color Trend는 온라인에는 없는듯ㅜ
+
+250807
+    doi:10.1057/s41599-022-01056-0
+    Polarization, abstention, and the median voter theorem
+        - 중위 투표자 정리에도 불구하고 양극화 이유?
+            - 스펙트럼 중앙의 투표자들의 기권
+            - 제3당
+            - 유권자 이념의 양봉형 분포
 ```
