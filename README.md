@@ -109,4 +109,21 @@ Bookmarks
             - 스펙트럼 중앙의 투표자들의 기권
             - 제3당
             - 유권자 이념의 양봉형 분포
+
+250810
+    doi:10.1162/tacl_a_00047
+    A Generative Model of Phonotactics (Futrell et al., 2017)
+
+250814
+    doi:10.7275/ebv1-5g73
+    Rethinking representations: A log-bilinear model of phonotactics (Dai et al., 2023)
+        #to-read
+
+    arxiv:2405.04726
+    Learning Phonotactics from Linguistic Informants (Breiss et al., 2024)
+        #to-read
+    
+    doi:10.7275/c521-qn83
+    Information-theoretic Characterization of the Sub-regular Hierarchy (Dai & Futrell, 2020)
+        #to-read
 ```
