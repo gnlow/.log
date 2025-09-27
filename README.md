@@ -126,4 +126,8 @@ Bookmarks
     doi:10.7275/c521-qn83
     Information-theoretic Characterization of the Sub-regular Hierarchy (Dai & Futrell, 2020)
         #to-read
+
+250927
+    doi:10.17854/ffyc.2021.07.67.5
+    ERGM을 활용한 중학생의 학급 친구 네트워크 분석: 성별, 학년, 성적 및 가정경제 형편의 동질성과 연관성 (강윤경 외, 2021)
 ```
