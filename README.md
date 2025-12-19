@@ -130,4 +130,9 @@ Bookmarks
 250927
     doi:10.17854/ffyc.2021.07.67.5
     ERGM을 활용한 중학생의 학급 친구 네트워크 분석: 성별, 학년, 성적 및 가정경제 형편의 동질성과 연관성 (강윤경 외, 2021)
+
+251219
+    doi:10.18653/v1/2024.findings-emnlp.705
+    The Shape of Word Embeddings: Quantifying Non-Isometry with Topological Data Analysis (Dragnov & Skiena, 2024)
+        #to-read
 ```
