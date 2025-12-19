@@ -132,7 +132,23 @@ Bookmarks
     ERGM을 활용한 중학생의 학급 친구 네트워크 분석: 성별, 학년, 성적 및 가정경제 형편의 동질성과 연관성 (강윤경 외, 2021)
 
 251219
-    doi:10.18653/v1/2024.findings-emnlp.705
-    The Shape of Word Embeddings: Quantifying Non-Isometry with Topological Data Analysis (Dragnov & Skiena, 2024)
-        #to-read
+  doi:10.18653/v1/2024.findings-emnlp.705
+  The Shape of Word Embeddings: Quantifying Non-Isometry with Topological Data Analysis (Dragnov & Skiena, 2024)
+    #to-read
+    - label 없이 word embedding의 point cloud를 TDA
+      - word embedding: FastText
+    - 언어별 지속성 다이어그램 간 거리 수치화
+      - Bottleneck Distance
+      - Sliced Wasserstein Distance
+      - Persistence Image
+      - Bars Statistics
+    - non-isometry 측정
+    - 언어 계통수 재구성
+      - UPGMA
+      - Neighbor Joining
+    - TDA만으로 재구성한 언어 계통수가 실제 언어 계통도와 유사
+      - Jaccard-Robinson-Foulds distance
+      - matching split Distance
+      - phylogenetic and clustering information distances
+      - path distence
 ```
